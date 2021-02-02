@@ -17,24 +17,13 @@ namespace MangoCrudWebApi.WebApi.Controllers
         private readonly CategoryService _CategoryService;
         public CategoryController(IMongoDbSettings settings)
         {
-
-            //IMongoDbSettings settings = new MangoDbSettings
-            //{
-            //    Database = "DbDemoCategory",
-            //    ConnectionString = "mongodb://localhost:27017",
-            //    Collection = "Category"
-            //};
             this._CategoryService = new CategoryService(settings);
-
         }
         [HttpGet("get")]
         public ActionResult<List<Category>> Get() => _CategoryService.GetAll();
         //[HttpGet("{id:lenght(24)}")]
         [HttpGet("getbyid/{id:length(24)}")]
         public ActionResult<Category> GetById(string id) => _CategoryService.SelectById(id);
-
-
-
 
         [HttpGet("getall")]
         public ActionResult<List<Category>> GetAll()
