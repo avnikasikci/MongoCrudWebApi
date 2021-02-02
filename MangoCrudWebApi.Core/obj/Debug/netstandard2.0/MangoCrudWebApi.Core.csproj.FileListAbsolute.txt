@@ -1,0 +1,9 @@
+D:\Users\Avni\Documents\Github\MangoCrudWebApi\MangoCrudWebApi\MangoCrudWebApi.Core\bin\Debug\netstandard2.0\MangoCrudWebApi.Core.deps.json
+D:\Users\Avni\Documents\Github\MangoCrudWebApi\MangoCrudWebApi\MangoCrudWebApi.Core\bin\Debug\netstandard2.0\MangoCrudWebApi.Core.dll
+D:\Users\Avni\Documents\Github\MangoCrudWebApi\MangoCrudWebApi\MangoCrudWebApi.Core\bin\Debug\netstandard2.0\MangoCrudWebApi.Core.pdb
+D:\Users\Avni\Documents\Github\MangoCrudWebApi\MangoCrudWebApi\MangoCrudWebApi.Core\obj\Debug\netstandard2.0\MangoCrudWebApi.Core.csprojAssemblyReference.cache
+D:\Users\Avni\Documents\Github\MangoCrudWebApi\MangoCrudWebApi\MangoCrudWebApi.Core\obj\Debug\netstandard2.0\MangoCrudWebApi.Core.AssemblyInfoInputs.cache
+D:\Users\Avni\Documents\Github\MangoCrudWebApi\MangoCrudWebApi\MangoCrudWebApi.Core\obj\Debug\netstandard2.0\MangoCrudWebApi.Core.AssemblyInfo.cs
+D:\Users\Avni\Documents\Github\MangoCrudWebApi\MangoCrudWebApi\MangoCrudWebApi.Core\obj\Debug\netstandard2.0\MangoCrudWebApi.Core.csproj.CoreCompileInputs.cache
+D:\Users\Avni\Documents\Github\MangoCrudWebApi\MangoCrudWebApi\MangoCrudWebApi.Core\obj\Debug\netstandard2.0\MangoCrudWebApi.Core.dll
+D:\Users\Avni\Documents\Github\MangoCrudWebApi\MangoCrudWebApi\MangoCrudWebApi.Core\obj\Debug\netstandard2.0\MangoCrudWebApi.Core.pdb
