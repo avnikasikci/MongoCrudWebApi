@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Avni\\Documents\\Github\\MangoCrudWebApi\\MangoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj",
       "projectName": "MangoCrudWebApi.WebApi",
-      "projectPath": "D:\\Users\\Avni\\Documents\\Github\\MangoCrudWebApi\\MangoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj",
+      "projectPath": "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj",
       "packagesPath": "C:\\Users\\Avni\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Avni\\Documents\\Github\\MangoCrudWebApi\\MangoCrudWebApi\\MangoCrudWebApi.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -718,8 +718,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Users\\Avni\\Documents\\Github\\MangoCrudWebApi\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj": {
-              "projectPath": "D:\\Users\\Avni\\Documents\\Github\\MangoCrudWebApi\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj"
+            "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj": {
+              "projectPath": "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj"
             }
           }
         }

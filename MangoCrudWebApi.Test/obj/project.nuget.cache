@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8pNdB0bS55IZ8DZR2cthKP1Oy1/ha12Vpi+b5EmItwIdrGN5ZdxUArMtQsk6zIrs7n4CwxE1go6x3NQw/tyl5Q==",
+  "dgSpecHash": "ronAlJ8Yk1ycQFnAkHmDSewLj3d/9udBthrm0ZOyNlqlUVUcY6a0zq4wN5Mvys9FCQ6QWxnr9a0Wq6Bpji8hCA==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Avni\\Documents\\Github\\MangoCrudWebApi\\MangoCrudWebApi\\MangoCrudWebApi.Test\\MangoCrudWebApi.Test.csproj",
+  "projectFilePath": "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.Test\\MangoCrudWebApi.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Avni\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Avni\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",

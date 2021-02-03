@@ -6090,11 +6090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Avni\\Documents\\Github\\MangoCrudWebApi\\MangoCrudWebApi\\MangoCrudWebApi.Test\\MangoCrudWebApi.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.Test\\MangoCrudWebApi.Test.csproj",
       "projectName": "MangoCrudWebApi.Test",
-      "projectPath": "D:\\Users\\Avni\\Documents\\Github\\MangoCrudWebApi\\MangoCrudWebApi\\MangoCrudWebApi.Test\\MangoCrudWebApi.Test.csproj",
+      "projectPath": "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.Test\\MangoCrudWebApi.Test.csproj",
       "packagesPath": "C:\\Users\\Avni\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Avni\\Documents\\Github\\MangoCrudWebApi\\MangoCrudWebApi\\MangoCrudWebApi.Test\\obj\\",
+      "outputPath": "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6115,8 +6115,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Users\\Avni\\Documents\\Github\\MangoCrudWebApi\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj": {
-              "projectPath": "D:\\Users\\Avni\\Documents\\Github\\MangoCrudWebApi\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj"
+            "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj": {
+              "projectPath": "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj"
             }
           }
         }
