@@ -1770,7 +1770,7 @@
       },
       "MangoCrudWebApi.Core/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Mango": "1.0.0",
           "MongoDB.Driver": "2.11.6"
@@ -6090,11 +6090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.Test\\MangoCrudWebApi.Test.csproj",
+      "projectUniqueName": "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.Test\\MangoCrudWebApi.Test.csproj",
       "projectName": "MangoCrudWebApi.Test",
-      "projectPath": "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.Test\\MangoCrudWebApi.Test.csproj",
+      "projectPath": "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.Test\\MangoCrudWebApi.Test.csproj",
       "packagesPath": "C:\\Users\\Avni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.Test\\obj\\",
+      "outputPath": "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6115,8 +6115,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj": {
-              "projectPath": "C:\\Users\\Avni\\Source\\Repos\\avnikasikci\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj"
+            "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj": {
+              "projectPath": "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj"
             }
           }
         }
@@ -6163,7 +6163,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   },
