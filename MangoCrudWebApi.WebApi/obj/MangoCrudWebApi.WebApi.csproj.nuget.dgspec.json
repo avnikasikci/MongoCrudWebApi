@@ -1,24 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj": {}
+    "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj": {
+    "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj",
+        "projectUniqueName": "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj",
         "projectName": "MangoCrudWebApi.Core",
-        "projectPath": "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj",
-        "packagesPath": "C:\\Users\\Avni\\.nuget\\packages\\",
-        "outputPath": "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.Core\\obj\\",
+        "projectPath": "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj",
+        "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.Core\\obj\\",
         "projectStyle": "PackageReference",
+<<<<<<< HEAD
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Avni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+        "configFilePaths": [
+          "C:\\Users\\resul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 0990ec9f4cf2adb5d65126fb9f2eff9709694c57
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,21 +77,26 @@
         }
       }
     },
-    "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj": {
+    "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj",
         "projectName": "MangoCrudWebApi.WebApi",
-        "projectPath": "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj",
-        "packagesPath": "C:\\Users\\Avni\\.nuget\\packages\\",
-        "outputPath": "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.WebApi\\obj\\",
+        "projectPath": "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj",
+        "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.WebApi\\obj\\",
         "projectStyle": "PackageReference",
+<<<<<<< HEAD
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Avni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+        "configFilePaths": [
+          "C:\\Users\\resul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 0990ec9f4cf2adb5d65126fb9f2eff9709694c57
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,8 +110,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj": {
-                "projectPath": "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj"
+              "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj": {
+                "projectPath": "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj"
               }
             }
           }
