@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace MangoCrudWebApi.WebApp.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : Controller //Mongo web controller
     {
         private readonly ILogger<HomeController> _logger;
         private readonly CategoryService _CategoryService;
