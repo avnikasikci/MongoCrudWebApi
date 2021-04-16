@@ -11,7 +11,7 @@ namespace MangoCrudWebApi.WebApi.Controllers
     //Test
     [ApiController]
     [Route("demo/api/[controller]")]
-    //[Route("[controller]")]
+    //[Route("[controller]")] route controller is branch
     public class CategoryController : ControllerBase
     {
         private readonly CategoryService _CategoryService;
