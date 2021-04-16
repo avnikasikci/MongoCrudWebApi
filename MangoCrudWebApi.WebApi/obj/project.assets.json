@@ -5089,25 +5089,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Avni\\.nuget\\packages\\": {},
-    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\resul\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj",
       "projectName": "MangoCrudWebApi.WebApi",
-      "projectPath": "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj",
-      "packagesPath": "C:\\Users\\Avni\\.nuget\\packages\\",
-      "outputPath": "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.WebApi\\obj\\",
+      "projectPath": "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.WebApi\\MangoCrudWebApi.WebApi.csproj",
+      "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.WebApi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Avni\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\resul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -5120,8 +5115,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj": {
-              "projectPath": "D:\\Avni\\Projects\\ProjectGithub\\PublicRepo\\MangoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj"
+            "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj": {
+              "projectPath": "C:\\Users\\resul\\Source\\Repos\\areasasec\\MongoCrudWebApi\\MangoCrudWebApi.Core\\MangoCrudWebApi.Core.csproj"
             }
           }
         }
@@ -5163,7 +5158,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   },
